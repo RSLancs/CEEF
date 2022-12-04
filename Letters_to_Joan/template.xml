@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text id="ruskin_to_mother_july_WWWWWWWWWWWWWWWWWWWWWW_1867">
+    
+    <header>
+        <inventNo>WWWWWWWWWWWWWWW</inventNo>
+    </header>
+
+    <body>
+        <div type="text">
+            <pb n="1"/>           
+            <opener>
+                <placeName><!-- match letter exactly, delete if unnecessary -->
+                    <rs type="place">WWWWWWWWWWWWWWW</rs>
+                </placeName>
+                <date when="1867-07-WWWWWWWWWWWWWWWWWWWWWWWWWWW"><!-- match letter exactly, delete if unnecessary -->
+                    <rs type="date">WWWWWWWWWWWWWWW.</rs>
+                </date>
+                <salute>WWWWWWWWWWWWWWW</salute><!-- match letter exactly, delete if unnecessary -->
+            </opener>
+            
+            <p id="p1">
+                <s id="s1">WWWWWWWWWWWWWWW</s>
+                <s id="s2">WWWWWWWWWWWWWWW</s>
+                <s id="s3">WWWWWWWWWWWWWWW</s>
+                <s id="s4">WWWWWWWWWWWWWWW</s>
+                <s id="s5">WWWWWWWWWWWWWWW</s>
+                <s id="s6">WWWWWWWWWWWWWWW</s>
+                <s id="s7">WWWWWWWWWWWWWWW</s>
+                <s id="s8">WWWWWWWWWWWWWWW</s>
+                <s id="s9">WWWWWWWWWWWWWWW</s>
+            </p>
+            
+            <closer>
+                <salute>WWWWWWWWWWWWWWW</salute><!-- optional - delete if unnecessary -->
+                <signed><!-- optional - delete if unnecessary -->
+                    <rs type="person">WWWWWWWWWWWWWWW</rs>
+                </signed>
+             </closer>
+
+            <postscript>
+                
+            </postscript>
+
+        </div>
+    </body>
+</text>      
+
+<pb n="1"/> <!-- Page Break -->
+<gap reason="illegible" unit="words" quantity="2"/> <!-- omissions in transcription -->
+<rs type="place">WWWWWWWWWWWWWWW</rs> <!-- Referencing String - options: "person", "place", "flora", "fauna", "mineral" --> 
+<hi rend="underline">WWWWWWWWWWWWWWW</hi> <!-- Highlight -->
+<unclear reason="illegible">WWWWWWWWWWWWWWW</unclear> <!-- Unclear words -->
+<del rend="overstrike">WWWWWWWWWWWWWWW</del> <!-- Deleted words -->
+<add hand="#JR" place="above">WWWWWWWWWWWWWWW</add> <!-- Added (Inserted) words -->

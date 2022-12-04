@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-07-09">July 09 1867</date>
+				</title>
+				<respStmt>
+					<name>Rob Smail</name>
+					<resp>Transcribed</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="5110922" type="person">Acland's</rs>
+						<rs key="19199837" type="person">Mr. Butler</rs>
+						<rs key="95838041" type="person">Mr. Richmond's</rs>
+						<rs key="73859585" type="person">J. Ruskin.</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1025076" type="place">Keswick</rs>
+						<rs key="Q1247373" type="place">Harrow</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00311</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="3"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1025076" type="place">Keswick</rs>
+				<date when="1867-07-09"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_july_09_1867">
+	    
+	    <header>
+	        <inventNo>1996L00311</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1025076" type="place">Keswick</rs>,
+	                </placeName>
+	                <date when="1867-07-09"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">9th July 1867</rs>
+	                </date>
+	                <day>Tuesday</day>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs></salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	            
+	            <p id="p1">
+	                <s id="s1">The weather, though varying from windy and cold, to thundery and hot, allows me to get out nearly all day long, and I have no doubt that I gain more than I feel, - one cannot set a complete reaction of the system on foot in a week.</s>
+	            </p>
+	
+	            <p id="p2">    
+	                <s id="s2">I met one of <rs key="5110922" type="person">Acland's</rs> friends a <rs key="19199837" type="person">Mr. Butler</rs>, the brother of the head master of <rs key="Q1247373" type="place">Harrow</rs>, on the lake yesterday: he was being rowed by the "Lord of the Isles," the gentlemen who lives in the house on the island: and they wanted me to go and see them in their Atlantic: I would not: but promised when I came back, which I really mean to do, to report myself at the island - it will on the whole <pb n="2"/> be more good than harm that I should know some of the people living here: and besides, I cannot help it but by mere savagery.</s>
+	            </p>
+	
+	            <p id="p3">     
+	                <s id="s3">I have just got your long and quite legible letter of yesterday enclosing <rs key="95838041" type="person">Mr. Richmond's</rs>, very nice.</s>
+	            </p>
+	
+	            <p id="p4">     
+	                <s id="s4">I will take care about lake air &amp;c in evening, but there is a sort of instinct in everybody in health, to get upon the water in the evening, which has been the same in all ages.</s>
+	                <s id="s5">There is more marsh about these lakes than there ought to be however, and I will take care.</s>
+	            </p>
+	            
+	            <closer>
+	                <salute>Ever my dearest <rs key="47637407" type="person">Mother</rs>, Your most affectionate Son,</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin.</rs>
+	                </signed>
+	             </closer>
+	
+	        </div>
+	    </body>
+	</text>      
+	
+</TEI>

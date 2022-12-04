@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-08-13">August 13 1867</date>
+				</title>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Transcribed</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+				<respStmt>
+					<name>Claire McGann</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-11">November 2019</date>
+					<notes>Added expan tags to 'affectionate' in sign off. Few bits of missing punctuation. </notes>
+					<checked>Yes</checked>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="76205504" type="person">Joanna</rs>
+						<rs key="8821113" type="person">Downes</rs>
+						<rs key="73859585" type="person">J Ruskin</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q5599500" type="place">Langdale.</rs>
+						<rs key="Q1025076" type="place">Keswick</rs>
+						<rs key="Q390370" type="place">Windermere</rs>
+						<rs key="Q427283" type="place">Helvellyn</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00330</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="3"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q5599500" type="place">Langdale.</rs>
+				<date when="1867-08-13"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_august_13_1867">
+	
+	    <header>
+	        <inventNo>1996L00330</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q5599500" type="place">Langdale.</rs>
+	                </placeName>
+	                <date when="1867-08-13"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">13th August 1867</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs>,</salute><!-- match letter exactly, delete if
+	                unnecessary -->
+	            </opener>
+	
+	            <p id="p1">
+	                <s id="s1">I've been writing a long letter to <rs key="76205504" type="person">Joanna</rs> - thinking every now and
+	                then between sentences and it has taken <del rend="strikethrough">so mu</del> much more time than I
+	                    intended.</s>
+	                <s id="s2">- and I can only say, to day in this, that I'm very thankful to hear of that peace which
+	                    came over you, and that I remain myself remain very peaceful and happy, and will write more
+	                    tomorrow (though I shall not get your letter at <rs key="Q1025076" type="place">Keswick</rs> in time to answer
+	                    it) - I go back to <rs key="Q1025076" type="place">Keswick</rs> because I left it before I had done, to show <rs key="8821113" type="person">Downes</rs> <rs key="Q390370" type="place">Windermere</rs> - if it is fine tomorrow</s>
+	                <s id="s3">I shall go up <rs key="Q427283" type="place">Helvellyn</rs> again on the way back.</s>
+	                <s id="s4">It was too cold when I was with <rs key="8821113" type="person">Downes</rs> <pb n="2"/> to see all I
+	                    wanted at the top.</s>
+	            </p>
+	
+	            <closer>
+	                <salute>Ever my dearest <rs key="47637407" type="person">mother</rs>, your <expan>affect<ex
+							cert="high">ionat</ex>e</expan> son</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J Ruskin</rs>
+	                </signed>
+	             </closer>
+	
+	            <postscript>
+	
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>
+</TEI>

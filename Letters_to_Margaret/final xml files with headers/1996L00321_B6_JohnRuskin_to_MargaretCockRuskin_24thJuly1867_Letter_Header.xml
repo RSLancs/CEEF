@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-07-24">July 24 1867</date>
+				</title>
+				<respStmt>
+					<name>Claire McGann</name>
+					<resp>Transcribed</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="76205504" type="person">Joanna</rs>
+						<rs key="54018628" type="person">George</rs>
+						<rs key="73859585" type="person">J Ruskin</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00321</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="2"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date when="1867-07-24"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_july_24_1867">
+	    
+	    <header>
+	        <inventNo>1996L00321</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <date when="1867-07-24"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">24th July.</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs></salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	            
+	            <p id="p1">
+	                <s id="s1">You will I trust have <rs key="76205504" type="person">Joanna</rs> home to-day, and so much to talk about that a letter from me too would be- well- It would'nt be not wanted any how.</s>
+	              <s id="s2">but actually there's the <hi rend="underline">sun</hi>! and I must get out. So many thanks for all the pretty sayings.</s>
+	            </p>
+	            
+	            <p id="p2">
+	                <s id="s3"><rs key="54018628" type="person">George</rs>'s letter delightful, I'll verily write about the Orange marmalade.</s>             
+	                <s id="s4">Ask <rs key="76205504" type="person">Joanna</rs> to read you my Rhymes</s>
+	            </p>
+	
+	            <closer>
+	                <salute>Ever your affectionate Son</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J Ruskin</rs>
+	                </signed>
+	             </closer>
+	        </div>
+	    </body>
+	</text> 
+</TEI>

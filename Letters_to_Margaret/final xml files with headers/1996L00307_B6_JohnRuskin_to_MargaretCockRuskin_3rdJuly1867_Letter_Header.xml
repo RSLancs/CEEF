@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-07-03">July 03 1867</date>
+				</title>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Transcribed</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+				<respStmt>
+					<name>Claire McGann</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="m_kerr" type="person">Mary Kerr</rs>
+						<rs key="95207079" type="person">Author of Waverley</rs>
+						<rs key="73859585" type="person">J. Ruskin.</rs>
+						<rs key="8196344" type="person">Alice</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q31105500" type="place">Huntly Burn</rs>
+						<rs key="rhymers_glen" type="place">Rhymer's glen</rs>
+						<rs key="Q22" type="place">Scotch</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00308</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="2"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q31105500" type="place">Huntly Burn</rs>
+				<date when="1867-07-03"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	<text id="ruskin_to_mother_july_03_1867">
+	
+	    <header>
+	        <inventNo>1996L00308</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q31105500" type="place">Huntly Burn</rs>
+	                </placeName>
+	                <date when="1867-07-05"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">July 5th 1867</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs></salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	
+	            <p id="p1">
+	                <s id="s1">I could not send you an envelope yesterday, for I did not know where I was going, but
+	                    here is one for you.</s>
+	            </p>
+	
+	            <p id="p2">
+	                <s id="s2">I feel decidedly better for the change even under all disadvantage of weather and I
+	                    hope to do better after this.</s>
+	                <s id="s3">- The sun has come out today, and I am going to have a walk up <rs key="rhymers_glen"
+	                                                                                              type="place">Rhymer's glen</rs> - with <rs key="m_kerr" type="person">Mary Kerr</rs> -
+	                </s>
+	                <s id="s4">If I were twenty years younger, it would be a complete scene for the <rs key="95207079"
+	                                                                                                    type="person">Author of Waverley</rs> - the young Scottish lady, being a Roman Catholic making it still more perfect.
+	                </s>
+	            </p>
+	
+	            <closer>
+	                <salute>For my dearest <rs key="47637407" type="person">mother</rs> your <expan>affect<ex
+	                        cert="high">ionate</ex>ate</expan> Son
+	                    .</salute><!-- optional - delete if
+		                unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin.</rs>
+	                </signed>
+	            </closer>
+	
+	            <postscript>
+	                <p id="p3">
+	                    <s id="s5"><rs key="8196344" type="person">Alice</rs> always asks affectionately for you, and sends
+	                        you her love.</s>
+	                    <s id="s6">She gains every day in health and intelligence.</s>
+	                </p>
+	                <p id="p4">
+	                    <s id="s7">I had a pleasant talk with a rough <rs key="Q22" type="place">Scotch</rs> Stonemason
+	                        and sculptor yesterday, a man of true genius, and some nice music in the evening.</s>
+	                </p>
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>
+</TEI>

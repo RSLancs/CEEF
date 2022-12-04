@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-08-23">August 23 1867</date>
+				</title>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Transcribed</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+				<respStmt>
+					<name>Claire McGann</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-11">November 2019</date>
+					<notes>Line 35: tagged 'lead ore' and 'spar' as minerals. 'waterlilies' as flora and 'fish' as fauna. Line 41: 'since breakfast' not 'nice breakfast'.  </notes>
+					<checked>Yes</checked>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="m_agnew" type="person">Mary</rs>
+						<rs key="73859585" type="person">J Ruskin</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1337703" type="place">Matlock.</rs>
+						<rs key="smedley_shop" type="place">Mr Smedleys shop</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00333</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="3"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1337703" type="place">Matlock.</rs>
+				<date when="1867-08-23"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="Q66813351" type="place">Denmark Hill</rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_margret_august_23_1867">
+	
+	    <header>
+	        <inventNo>1996L00333</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1337703" type="place">Matlock.</rs>
+	                </placeName>
+	                <date when="1867-08-23"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">23rd August 1867</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs></salute><!-- match letter exactly, delete if
+	                unnecessary -->
+	            </opener>
+	
+	            <p id="p1">
+	                <s id="s1">I do not know when I have had a more pleasing or pathetic walk than this morning before
+	                    breakfast.</s>
+	                <s id="s2">It was sweet, quiet sunshine, with dew on the grass, and the rocks beginning to emerge
+	                    from the mist in the valley - </s>
+	            </p>
+	
+	            <p id="p2">
+	                <s id="s3">I am at the old Inn, which <rs key="m_agnew" type="person">Mary</rs>drew, in the old times.</s>
+	                <s id="s4">It is <del rend="strikethrough">altered</del><add hand="#JR" place="above">added to</add>
+	                    a little - but what was of it remains and looks much as it did.</s>
+	                <s id="s5">The grass flat in front, and the tree are, just the same, the garden where I used to play,
+	                &amp; gather bits of <rs key="Q37559" type="mineral">lead ore</rs>, is still there - and the walks still sprinkled with <rs key="Q170258" type="mineral">spar</rs>, and to my
+	                    great delight the old fishpond - with superb <rs key="Q148650" type="flora">waterlilies</rs> and <rs key="Q123141" type="fauna">gold fish</rs>, and above, the green
+	                    fresh-dewey fields still untouched and pure.</s>
+	            </p>
+	
+	            <p id="p3">
+	                <s id="s6">And I've had your nice letter, and a nice walk since breakfast - and I've <pb n="2"/>seen
+	                    a cavern, and examined some strange rocks, and got a mineral or two, and had a chat with the old
+	                    woman in <rs key="smedley_shop" type="place">Mr Smedleys shop</rs> - who has been there fifty three years, and
+	                    tomorrow by about this time, I hope to be very near home, and shall be very glad to be so, and I
+	                am ever,</s>
+	            </p>
+	
+	            <closer>
+	                <salute>my dearest <rs key="47637407" type="person">Mother</rs>, Your <expan>affect<ex cert="high">ionat</ex>e</expan> Son</salute><!-- optional -
+	                delete if
+	                unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J Ruskin</rs>
+	                </signed>
+	             </closer>
+	
+	            <postscript>
+	
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>
+</TEI>

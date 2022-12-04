@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-07-23">July 23 1867</date>
+				</title>
+				<respStmt>
+					<name>Rob Smail</name>
+					<resp>Transcribed</resp>
+					<date when="2019-10">October 2019</date>
+					<notes>1 gap</notes>
+				</respStmt>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-10">October 2019</date>
+					<notes>1 gap remains: includes a little sketch, gap is an odd hypehanted word which I don't recognise (maybe something architectural?)</notes>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="45147049" type="person">Rose</rs>
+						<rs key="76205504" type="person">Joanna</rs>
+						<rs key="73859585" type="person">J. Ruskin.</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1025076" type="place">Keswick,</rs>
+						<rs key="Q506996" type="place">Derwent</rs>
+						<rs key="Q19719" type="place">Tay</rs>
+						<rs key="Q23360" type="place">Cumberland</rs>
+						<rs key="Q22" type="place">Scotch</rs>
+						<rs key="Q39" type="place">Swiss</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00320</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="4"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							<supportDesc>
+								<extent>
+								<dimensions>119mm (w) x 66mm (h)</dimensions>		
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+							<msIdentifier>1996L00320/1</msIdentifier>
+							<address>
+								<addrLine id="a1">
+									<rs key="47637407" type="person">Mrs Ruskin</rs>
+								</addrLine>
+								<addrLine id="a2">
+									<rs key="Q66813351" type="place">Denmark Hill</rs>
+								</addrLine>
+								<addrLine id="a3">
+									S. London
+								</addrLine>
+							</address>
+							<stamp id="stamp1" type="postage" position="front">
+								<desc>Missing</desc>
+							</stamp>
+							<stamp id="stamp2" type="postOffice" position="front">
+								<rs key="Q1025076" type="place">Keswick</rs>
+								<date when="1867-07-23">JY 23 67</date>
+							</stamp>
+							<stamp id="stamp3" type="postOffice" position="back">
+								<rs key="Q84" type="place">London</rs>
+								<date when="1867-07-24">JY 24 67</date>
+							</stamp>
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1025076" type="place">Keswick</rs>
+				<date when="1867-07-23"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="Q66813351" type="place">Denmark Hill</rs>
+				<date when="1867-07-24">JY 24 67</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_july_23_1867">
+	    
+	    <header>
+	        <inventNo>1996L00320</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1025076" type="place">Keswick,</rs>
+	                </placeName>
+	                <day>Tuesday</day>
+	                <date when="1867-07-23"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">23rd July 1867.</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs></salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	            
+	            <p id="p1">
+	                <s id="s1">I have your nice letter saying you were so much interested by the account of the apprentice of the river: I will get the Times and look at it</s>
+	                <s id="s2">I see no papers here, on purpose.</s>
+	                <s id="s3">They disturb my peace of mind mightily - and I'm trying to think of nothing at all - but <rs key="45147049" type="person">Rose</rs> - who is everywhere all day long, quietly.</s>
+	            </p>    
+	
+	            <p id="p2">    
+	                <s id="s4">I found a very interesting scene yesterday in a dingle quite hitherto unknown to me, on the left hand side of the lake, and am going over there again to-day - </s>
+	                <s id="s5">It was pouring rain yesterday, and I had <pb n="2"/> leap three streams, and wade one, where usually there are only little, trickling brooklets, and the <rs key="Q506996" type="place">Derwent</rs>, in which a doggie no bigger than Wisie would hardly have found a pool where he could swim, a week ago, is now a steady, grand, eddying torrent like a main branch of the <rs key="Q19719" type="place">Tay</rs>.</s>
+	            </p>    
+	
+	            <p id="p3">    
+	                <s id="s6">- There <rs key="Q23360" type="place">Cumberland</rs> and <rs key="Q22" type="place">Scotch</rs> streams, at their strongest -  are however never like <rs key="Q39" type="place">Swiss</rs> ones, - for great reasons, they never flow down steep slopes</s>
+	            </p>
+	        </div>
+	        
+	        <div type="sketch">    
+	            <des><rs key="Q23360" type="place">Cumberland</rs> rapid. <rs key="Q39" type="place">Swiss</rs> rapid</des>           
+	        </div>
+	
+	        <div type="text">
+	            <pb n="3"/> 
+	            <p id="p4">     
+	                <s id="s7">- though often with no more water actually in the bed at one time than in the <rs key="Q23360" type="place">Cumberland</rs> torrent - for going six times the pace, it can deliver six times the quantity of water in the same time, without being any deeper.</s>
+	            </p>
+	 
+	            <p id="p5">    
+	                <s id="s8">I hope you will have <rs key="76205504" type="person">Joanna</rs> with you on Thursday.</s>
+	            </p>    
+	
+	            <p id="p6">    
+	                <s id="s9">I shall be so much more comfortable.</s>
+	            </p>
+	            
+	            <closer>
+	                <salute>ever my dearest <rs key="47637407" type="person">Mother</rs>, Your affectionate Son.</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin.</rs>
+	                </signed>
+	            </closer>
+	        </div>
+	    </body>
+	</text>      
+	
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-07-18">July 18 1867</date>
+				</title>
+				<respStmt>
+					<name>Rob Smail</name>
+					<resp>Transcribed</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="73859585" type="person">J. Ruskin.</rs>
+						<rs key="32779015" type="person">Sir Walter Trevelyan</rs>
+						<rs key="miss_lofft" type="person">Miss Lofft</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00318</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="3"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date when="1867-07-18"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_july_18_1867">
+	    
+	    <header>
+	        <inventNo>1996L00318</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <date when="1867-07-18"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">18th July.</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs>,</salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	            
+	            <p id="p1">
+	                <s id="s1">I <hi rend="underline">must</hi> only write a line to-day for the rain rained all day yesterday and it has only just cleared and I must go out.</s>
+	                <s id="s2">And I can't write in the evening.</s>
+	                <s id="s3">It sets me thinking and puts me off sleep.</s>
+	                <s id="s4">I <hi rend="underline">try</hi> merely to <hi rend="underline">digest</hi> in the evening.</s>
+	            </p>
+	            
+	            <p id="p2">
+	                <s id="s5">Forgive this line.</s>
+	            </p>
+	
+	            <closer>
+	                <salute> I am quite well and ever your loving son</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin.</rs>
+	                </signed>
+	             </closer>
+	
+	            <postscript>
+	                <p id="p3">
+	                    <s id="s6">I have your beautiful letter of yesterday.</s> 
+	                </p>
+	
+	                 <pb n="2"/>
+	
+	                <p id="s4">
+	                    <s id="s7">I need not have hurried for there is the rain on again, - but I have had several other letters to answer, and am put out, and not able to write - for - what do you think - </s>
+	                </p>
+	
+	                <p id="p4">
+	                    <s id="s8"><rs key="32779015" type="person">Sir Walter Trevelyan</rs> is just going to marry again! - a <rs key="miss_lofft" type="person">Miss Lofft</rs>.</s>
+	                </p>
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>      
+	
+</TEI>

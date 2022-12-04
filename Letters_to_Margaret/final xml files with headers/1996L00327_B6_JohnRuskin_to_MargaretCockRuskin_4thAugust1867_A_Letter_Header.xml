@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-08-04">August 04 1867</date>
+				</title>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Transcribed</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+				<respStmt>
+					<name>Claire McGann</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-11">November 2019</date>
+					<notes>A: Corrected inventory number:  Should end in 7. Line 37: changed 'Guiness' to 'business' (with some regret). From Line 53 downwards: think this all needs deleting-- accidentally duplicated from the 11th August letter?</notes>
+					<checked>Yes</checked>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">mother</rs>
+						<rs key="76205504" type="person">Joanna</rs>
+						<rs key="m_agnew" type="person">Mary</rs>
+						<rs key="73859585" type="person">J Ruskin</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1025076" type="place">Keswick</rs>
+						<rs key="Q241684" type="place">Cockermouth</rs>
+						<rs key="Q1987310" type="place">Bassenthwaite</rs>
+						<rs key="Q83434" type="place">Norwood</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00327</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="3"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1025076" type="place">Keswick</rs>
+				<date when="1867-08-04"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_august_4A_1867">
+	
+	    <header>
+	        <inventNo>1996L00327</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>
+	
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1025076" type="place">Keswick</rs>
+	                </placeName>
+	                <date when="1867-08-04"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">Sunday, 4th August</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">mother</rs>,</salute><!-- match letter
+	                exactly, delete if
+	                unnecessary -->
+	            </opener>
+	
+	            <p id="p1">
+	                <s id="s1">I've written you rather a long letter to day, but the <hi rend="underline">first</hi> page
+	                    of it, I want you to read to <hi rend="underline">yourself</hi>, not to let <rs key="76205504" type="person">Joanna</rs> read it to you.</s>
+	                <s id="s2">so I write you this first to say so and I'll send you the other tomorrow.</s>
+	                <s id="s3">-After the line across the second page of it, <rs key="76205504" type="person">Joanna</rs> may read the
+	                    rest to you, and she had better, as it is rather long.</s>
+	            </p>
+	
+	            <p id="p2">
+	                <s id="s4">I had a lovely walk yesterday; first driving nine miles on the old <rs key="Q241684" type="place">Cockermouth</rs> road - which I think you and I and <rs key="m_agnew" type="person">Mary</rs>
+	                    must have gone in postchaise with Papa in old <pb n="2"/> times - for I'm
+	                sure I remember his having business at <rs key="Q241684" type="place">Cockermouth</rs> though I don't remember the
+	                road</s>
+	                <s id="s5">However, I went nine miles of it by <rs key="Q1987310" type="place">Bassenthwaite</rs> and then returned
+	                    over the hills to <rs key="Q1025076" type="place">Keswick</rs>.</s>
+	                <s id="s6">The weather is threatening - else I've another grand plan for tomorrow, but must abide by
+	                the clouds.</s>
+	            </p>
+	
+	            <closer>
+	                <salute>Ever my dearest <rs key="47637407" type="person">mother</rs> Your most <expan>affect<ex
+							cert="high">ionate</ex></expan> son</salute><!-- optional - delete if unnecessary
+	                 -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J Ruskin</rs>
+	                </signed>
+	             </closer>
+	
+	            <ab id="ab2">
+	                <p id="p4">
+	                    <s id="s6">Monday morning</s>
+	                    <s id="s7">Exquisite weather</s>
+	                    <s id="s8">1/2 past 7 <hi rend="underline">here</hi></s>
+	                </p>
+	
+	                <p id="p5">
+	                    <s id="s9">10 minutes to eight by <hi rend="underline">you</hi>, as I know by my <rs key="73859585" type="person">Father's</rs> watch which I always wear, now; - <hi rend="underline">what
+	                    </hi> a watch it is! for <gap reason="illegible" type="words" quantity="1"/></s>
+	                    <s id="s10">I gave it a <gap reason="illegible" type="words" quantity="1"/>, with my golden
+	                        letter this morning</s>
+	                </p>
+	
+	                <p id="p6">
+	                    <s id="s11">Look here - while <rs key="76205504" type="person">Joanna</rs> stays at home with us, might it not
+	                        be better that I should come home for a little while, take you to <rs key="Q83434" type="place">Norwood</rs>, while I can still enjoy the country drives therefrom, and get the house cleaned! - I
+	                        will write more of this tomorrow, it would I think be best to</s>
+	                </p>
+	            </ab>
+	            <postscript>
+	
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>
+</TEI>

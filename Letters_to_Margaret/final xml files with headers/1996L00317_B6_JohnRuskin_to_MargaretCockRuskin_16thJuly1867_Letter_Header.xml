@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-07-16">July 16 1867</date>
+				</title>
+				<respStmt>
+					<name>Rob Smail</name>
+					<resp>Transcribed</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="p_la_touche" type="person">Percy</rs>
+						<rs key="76205504" type="person">Joanna</rs>
+						<rs key="73859585" type="person">J. Ruskin.</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1017196" type="place">Wigtown,</rs>
+						<rs key="Q1025076" type="place">Keswick</rs>
+						<rs key="Q22" type="place">Scotland</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00317</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="4"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							<supportDesc>
+								<extent>
+								<dimensions>119mm (w) x 66mm (h)</dimensions>		
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+							<msIdentifier>1996L00317/1</msIdentifier>
+							<note>July 18th Keswick</note>
+							<address>
+								<addrLine id="a1">
+									<rs key="47637407" type="person">Mrs Ruskin</rs>
+								</addrLine>
+								<addrLine id="a2">
+									<rs key="Q66813351" type="place">Denmark Hill</rs>
+								</addrLine>
+								<addrLine id="a3">
+									S. Camberwell
+								</addrLine>
+								<addrLine id="a4">
+									London
+								</addrLine>
+							</address>
+							<stamp id="stamp1" type="postage" position="front">
+								<desc>Missing</desc>
+							</stamp>
+							<stamp id="stamp2" type="postOffice" position="front">
+								<rs key="Q1016985" type="place">Newton Stewart</rs>
+								<date when="1867-07-16">JY 16 67</date>
+							</stamp>
+							<stamp id="stamp3" type="postOffice" position="back">
+								<rs key="Q84" type="place">London</rs>
+								<date when="1867-07-17">JY 17 67</date>
+							</stamp>
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1017196" type="place">Wigtown,</rs>
+				<date when="1867-07-16"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="Q66813351" type="place">Denmark Hill</rs>
+				<date when="1867-07-17">JY 17 67</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_july_16_1867">
+	    
+	    <header>
+	        <inventNo>1996L00317</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1017196" type="place">Wigtown,</rs>
+	                </placeName>
+	                <day>Tuesday morning,</day>
+	                <date when="1867-07-16"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">16th July, 67.</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs>,</salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	            
+	            <p id="p1">
+	                <s id="s1">I was detained by weather yesterday, but am really off this morning, and hope to send you telegram from <rs key="Q1025076" type="place">Keswick</rs> to-morrow, as soon, almost, as you can get this.</s>
+	            </p>    
+	
+	            <p id="p2">    
+	                <s id="s2">I have given great pleasure by coming here, and I know several conditions of things respecting the family which enabled me to judge more clearly in what regards <rs key="p_la_touche" type="person">Percy</rs>.</s>
+	            </p>    
+	
+	            <p id="p3">    
+	                <s id="s3">That was what I mainly came for</s>
+	                <s id="s4">I think more highly of <pb n="2"/> <rs key="76205504" type="person">Joanna</rs> and her sister than I did, nor am I disappointed in thier way of life - as compared with all around them: but there is much to depress me in the aspect of <rs key="Q22" type="place">Scotland</rs> and in the desertion of these provincial towns - and I have the secret of extracting sadness from all things - instead of joys which is no enviable talisman.</s>
+	            </p>    
+	
+	            <p id="p4">    
+	                <s id="s5">Forgive me if I ever write in a way that may pain you - </s>
+	                <s id="s6">It is best that you should know when I write cheerfully <pb n="3"/> it is no pretended cheerfulness - so when I am sad - I think it right to confess it.</s>
+	            </p>
+	            
+	            <closer>
+	                <salute>Ever my dearest <rs key="47637407" type="person">Mother</rs>, Your most affectionate Son,</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin.</rs>
+	                </signed>
+	             </closer>
+	
+	        </div>
+	    </body>
+	</text>      
+	
+</TEI>

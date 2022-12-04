@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-08-15">August 15 1867</date>
+				</title>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Transcribed</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+				<respStmt>
+					<name>Claire McGann</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-11">November 2019</date>
+					<notes>Line 25: 'not' for 'knot'. 'only' for 'and'. Line 28 'the' for 'teh'. Line 33: added person tag for Kingsley. </notes>
+					<checked>Yes</checked>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="76205504" type="person">Joanna</rs>
+						<rs key="156994466" type="person">Kingsley</rs>
+						<rs key="73859585" type="person">father</rs>
+						<rs key="73859585" type="person">J Ruskin</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1025076" type="place">Keswick.</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00331</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="3"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1025076" type="place">Keswick.</rs>
+				<date when="1867-08-15"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_margret_august_15_1867">
+	
+	    <header>
+	        <inventNo>1996L00331</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1025076" type="place">Keswick.</rs>
+	                </placeName>
+	                <date when="1867-08-15"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">15th August, 1867</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs></salute><!-- match letter exactly,
+	                delete if
+	                unnecessary -->
+	            </opener>
+	
+	            <p id="p1">
+	                <s id="s1">I have writen so long a letter to <rs key="76205504" type="person">Joanna</rs>, all of which is for you
+	                    also, that I must not write much more to day - only your writing is quite beautiful still - more
+	                legible than <rs key="76205504" type="person">Joannas</rs>; (which is legiblest to <hi rend="underline">me</hi> of
+	                    lady hands) and I'll be home D.V. on the 24th.</s>
+	                <s id="s2">but it is curious that you speak of the <hi
+	                            rend="underline">peace</hi> of these hills, for that is indeed the helpfullest thing of
+	                    all to me - more than air or exercise - when I come back- you &amp; <rs key="76205504" type="person">Joan</rs> must
+	                    go on managing the house between you, for, positively, I won't be <pb n="2"/> bothered with it -
+	                    you may open my letters you like, now.</s>
+	                <s id="s2">Was'nt <rs key="156994466" type="person">Kingsley</rs>'s nice, about my <rs
+							key="73859585" type="person">father</rs>?</s>
+	            </p>
+	
+	            <closer>
+	                <salute>For my dearest <rs key="47637407" type="person">Mother</rs>, your most affectionate Son</salute><!-- optional -
+	                delete if
+	                unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J Ruskin</rs>
+	                </signed>
+	             </closer>
+	
+	            <postscript>
+	
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>
+</TEI>

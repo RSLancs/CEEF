@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-07-12">July 12 1867</date>
+				</title>
+				<respStmt>
+					<name>Rob Smail</name>
+					<resp>Transcribed</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="76205504" type="person">Joanna</rs>
+						<rs key="p_la_touche" type="person">Percy's</rs>
+						<rs key="miss_mclanes" type="person">"Miss McLanes"</rs>
+						<rs key="95207079" type="person">Sir Walter Scott</rs>
+						<rs key="73859585" type="person">J. Ruskin.</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q2227457" type="place">Wigtown</rs>
+						<rs key="Q1017187" type="place">Glenluce</rs>
+						<rs key="Q5523474" type="place">Garlieston</rs>
+						<rs key="Q1025076" type="place">Keswick</rs>
+						<rs key="royal_oak" type="place">Royal Oak</rs>
+						<rs key="Q514635" type="place">Wast-water</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00314</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="4"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							<supportDesc>
+								<extent>
+								<dimensions>119mm (w) x 66mm (h)</dimensions>		
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+							<msIdentifier>1996L00314/1</msIdentifier>
+							<address>
+								<note>9th+10th July 1867</note>
+								<addrLine id="a1">
+									<rs key="47637407" type="person">Mrs Ruskin</rs>
+								</addrLine>
+								<addrLine id="a2">
+									<rs key="Q66813351" type="place">Denmark Hill</rs>
+								</addrLine>
+								<addrLine id="a3">
+									S. London
+								</addrLine>
+							</address>
+							<stamp id="stamp1" type="postage" position="front">
+								<desc>Missing</desc>
+							</stamp>
+							<stamp id="stamp2" type="postOffice" position="front">
+								<rs key="Q1016985" type="place">Newton Stewart</rs>
+								<date when="1867-07-12">JY 12 67</date>
+							</stamp>
+							<stamp id="stamp3" type="postOffice" position="back">
+								<rs key="Q84" type="place">London</rs>
+								<date when="1867-07-13">JY 13 67</date>
+							</stamp>
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q2227457" type="place">Wigtown</rs>
+				<date when="1867-07-12"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="Q66813351" type="place">Denmark Hill</rs>
+				<date when="1867-07-13">JY 13 67</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_july_12_1867">
+	    
+	    <header>
+	        <inventNo>1996L00314</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q2227457" type="place">Wigton</rs>
+	                </placeName>
+	                <date when="1867-07-12"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">12th July, 1867</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs>,</salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	
+	            <p id="p1">
+	                <s id="s1">It is a fine morning and <rs key="76205504" type="person">Joanna</rs> is very well and in high spirits about <rs key="p_la_touche" type="person">Percy's</rs> birthday, and we are going in the afternoon to see <rs key="Q1017187" type="place">Glenluce</rs>, as you wished.</s>
+	                <s id="s2">(thanks for nice and beautifully written letter received yesterday).</s>
+	                <s id="s3">We drove yesterday to <rs key="Q5523474" type="place">Garlieston</rs>, and called on three old ladies, <rs key="miss_mclanes" type="person">"Miss McLanes"</rs> - living with their brother in a pretty house by the seaside - it was all so <hi rend="underline">intensely</hi> like a scene in <rs key="95207079" type="person">Sir Walter Scott</rs>.</s>
+	                <s id="s4">They were real ladies, and it was very sweet and nice.</s>
+	                <s id="s5">I had a quiet <pb n="2"/> evening of rest, <rs key="76205504" type="person">Joanna</rs> playing and singing very nicely.</s>
+	                <s id="s6">I am much pleased to see her in such bright health</s>
+	            </p>
+	           
+	            <p id="p2">
+	                <s id="s7">I have enclosed an envelope for <rs key="Q1025076" type="place">Keswick</rs> as I am not quite sure if your Saturday's letter would arrive on Sunday here.</s>
+	                <s id="s8">But it is safe at the old <rs key="royal_oak" type="place">Royal Oak</rs>, where I am going for old times' sake, and if I find it now altered and uncomfortable I shall go on to <rs key="Q514635" type="place">Wast-water</rs> on some other place where I can have pure air and climbing, for I <pb n="3"/> mean to make the most I can of the time I take from you.</s>
+	            </p>
+	            
+	            <closer>
+	                <salute>Ever my dearest <rs key="47637407" type="person">Mother</rs>, Your most affectionate Son,</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin.</rs>
+	                </signed>
+	             </closer>
+	
+	        </div>
+	
+	    </body>
+	
+	</text>      
+	            
+	    
+</TEI>

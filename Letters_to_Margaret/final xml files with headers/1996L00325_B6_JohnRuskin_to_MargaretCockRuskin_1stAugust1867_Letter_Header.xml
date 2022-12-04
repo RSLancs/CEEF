@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-08-01">August 01 1867</date>
+				</title>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Transcribed</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+				<respStmt>
+					<name>Claire McGann</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-11">November 2019</date>
+					<notes>Line 31: the gap is 'girl' (this agrees with the published transcription). Line 37: 'higher' not 'high'. </notes>
+					<checked>Yes</checked>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="8821113" type="person">Downes</rs>
+						<rs key="45079093" type="person">Mr Simon's</rs>
+						<rs key="73859585" type="person">J Ruskin</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1025076" type="place">Keswick</rs>
+						<rs key="Q894164" type="place">Borrowdale</rs>
+						<rs key="Q55613925" type="place">Honister-crag</rs>
+						<rs key="Q1018118" type="place">Buttermere</rs>
+						<rs key="Q34433" type="place">Oxford</rs>
+						<rs key="Q1983538" type="place">Newlands</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00325</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="3"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1025076" type="place">Keswick</rs>
+				<date when="1867-08-01"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_august_01_1867">
+	
+	    <header>
+	        <inventNo>1996L00325</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>
+	
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1025076" type="place">Keswick</rs>
+	                </placeName>
+	                <date when="1867-08-01"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">1st August, 1867</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs>,</salute><!-- match letter exactly, delete if
+	                unnecessary -->
+	            </opener>
+	
+	            <p id="p1">
+	                <s id="s1">It was fine yesterday, and I took a light carriage, and drove with <rs key="8821113" type="person">Downes</rs> up <rs key="Q894164" type="place">Borrowdale</rs>, and round under <rs key="Q55613925" type="place">Honister-crag</rs>, to
+	                    <rs key="Q1018118" type="place">Buttermere</rs>, and played a little while at the edge of the same stream which
+	                    I got scolded for dabbling in till I was too late for dinner, when I was a boy</s>
+	                <s id="s2">The dinner was a very bad one, I remember; and I used it afterwards in my speech at <rs key="Q34433" type="place">Oxford</rs>, on Education of the Lower Classes, - because the
+	                    girl at <rs key="Q1018118" type="place">Buttermere</rs> had a piano in the parlour, and nothing in the kitchen</s>
+	            </p>
+	
+	            <p id="p2">
+	                <s id="s3">We came home through the vale of <rs key="Q1983538" type="place">Newlands</rs></s>
+	                <s id="s4">Both passes were higher &amp; grander than I expected; but<pb n="2"/> driving a long way
+	                    through moors is duller than walking, for at least in walking, one has to look where one is
+	                    going, and that is amusing.</s>
+	            </p>
+	
+	            <p id="p3">
+	                <s id="s5">I've just got your most nice letter of yesterday.</s>
+	                <s id="s6">I understand it all <hi rend="underline">perfectly.</hi></s>
+	                <s id="s7">I'm very glad you like the <hi rend="underline">"Selections"</hi> and about <rs key="45079093" type="person">Mr Simon's</rs> garden</s>
+	            </p>
+	
+	            <closer>
+	                <salute>Ever my dearest <rs key="47637407" type="person">mother</rs>, your most <expan>affect<ex
+							cert="high">ionate</ex></expan> son,</salute>
+	                <!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J Ruskin</rs>
+	                </signed>
+	             </closer>
+	
+	            <postscript>
+	
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>
+</TEI>

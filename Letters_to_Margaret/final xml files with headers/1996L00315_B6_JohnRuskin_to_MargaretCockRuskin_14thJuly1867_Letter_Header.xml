@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-07-14">July 14 1867</date>
+				</title>
+				<respStmt>
+					<name>Rob Smail</name>
+					<resp>Transcribed</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="76205504" type="person">Joanna</rs>
+						<rs key="73859585" type="person">J. Ruskin.</rs>
+						<rs key="f_crawley" type="person">Crawley's</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q2227457" type="place">Wigtown</rs>
+						<rs key="Q192896" type="place">Carlisle</rs>
+						<rs key="Q1017187" type="place">Glen Luce</rs>
+						<rs key="Q1017196" type="place">Wigtown</rs>
+						<rs key="Q23360" type="place">Cumberland</rs>
+						<rs key="Q163" type="place">Yorkshire</rs>
+						<rs key="Q22" type="place">Scotland</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00315</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="4"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q2227457" type="place">Wigtown</rs>
+				<date when="1867-07-14"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_july_14_1867">
+	    
+	    <header>
+	        <inventNo>1996L00315</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q2227457" type="place">Wigton</rs>
+	                </placeName>
+	                <date when="1867-07-14"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">14th July, 1867</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs>,</salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	            
+	            <p id="p1">
+	                <s id="s1">I discovered too late yesterday that there was no post on Sunday, so I could only send telegram.</s>
+	                <s id="s2">You will get this, and I hope another from <rs key="Q192896" type="place">Carlisle</rs>, on Tuesday morning.</s>
+	            </p>    
+	
+	            <p id="p2">    
+	                <s id="s3">I went to <rs key="Q1017187" type="place">Glen Luce</rs> on friday afternoon - it is much prettier than <rs key="Q1017196" type="place">Wigtown</rs>, the ruins of the abbey are still very beautiful - but the manse, alas, had been pulled down, and rebuilt in the vulgar Scotch way.</s>
+	                <s id="s4">The river and valley, and banks of wood sloping down, with <rs key="Q34687" type="flora">wild rose</rs> and <pb n="2"/> <rs key="Q156099" type="flora">wild pinks</rs>, were all as lovely as could be.</s>
+	                <s id="s5">But the provincial towns are more and more reduced and absorbed by the capital ones, and every country town I have passed through in <rs key="Q23360" type="place">Cumberland</rs>, <rs key="Q163" type="place">Yorkshire</rs>, and <rs key="Q22" type="place">Scotland</rs>, has the same aspect of deep melancholy and ruin.</s>
+	            </p>    
+	            <p id="p3">     
+	                <s id="s6">I am writing carelessly this morning for I am a little despondent at the sight of these old places, and I'm sorry to leave <rs key="76205504" type="person">Joanna</rs> and her sisters, for I know that my being here must <pb n="3"/> be a great pleasure to them, - but this place is too far from either hills or sea to be any good to me, so I must go back to <rs key="Q23360" type="place">Cumberland</rs>.</s>
+	            </p>    
+	
+	            <p id="p4">    
+	                <s id="s7">I hope to send a more cheerful letter <hi rend="underline">with</hi> this.</s>
+	            </p>
+	            
+	            <closer>
+	                <salute>Ever my dearest <rs key="47637407" type="person">Mother</rs>, Your most affectionate Son,</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin.</rs>
+	                </signed>
+	             </closer>
+	
+	            <postscript>
+	                <p id="p5">    
+	                    <s id="s8">I have yours, I fear a little nervious about <rs key="f_crawley" type="person">Crawley's</rs> home coming.</s>
+	                </p>               
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>      
+	
+</TEI>

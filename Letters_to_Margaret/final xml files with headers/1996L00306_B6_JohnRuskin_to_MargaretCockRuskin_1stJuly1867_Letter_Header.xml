@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-07-01">July 01 1867</date>
+				</title>
+				<respStmt>
+					<name>Rob Smail</name>
+					<resp>Transcribed</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="95838041" type="person">Mr. Richmonds</rs>
+						<rs key="73859585" type="person">J. Ruskin.</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="crown_hotel" type="place">5 Crown Hotel</rs>
+						<rs key="Q895483" type="place">Bowness</rs>
+						<rs key="low_wood" type="place">Low-wood</rs>
+						<rs key="Q18125" type="place">Manchester</rs>
+						<rs key="Q31105500" type="place">Huntly burn</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00306</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="5"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							<supportDesc>
+								<extent>
+								<dimensions>119mm (w) x 66mm (h)</dimensions>		
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+							<msIdentifier>1996L00306/1</msIdentifier>
+							<note>July 1+2d 1867</note>
+							<address>
+								<addrLine id="a1">
+									<rs key="47637407" type="person">Mrs Ruskin</rs>
+								</addrLine>
+								<addrLine id="a2">
+									<rs key="Q66813351" type="place">Denmark Hill, Camberwell</rs>
+								</addrLine>
+								<addrLine id="a3">
+									S. London
+								</addrLine>
+							</address>
+							<stamp id="stamp1" type="postage" position="front">
+								<desc>Missing</desc>
+							</stamp>
+							<stamp id="stamp2" type="postOffice" position="front">
+								<rs key="Q632993" type="place">Melrose</rs>
+								<date when="1867-07-02">JY 2 67</date>
+							</stamp>
+							<stamp id="stamp3" type="postOffice" position="back">
+								<rs key="Q84" type="place">London</rs>
+								<date when="1867-07-03">JY 3 67</date>
+							</stamp>
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="crown_hotel" type="place">5 Crown Hotel</rs>
+				<date when="1867-07-01"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="Q66813351" type="place">Denmark Hill</rs>
+				<date when="1867-07-03">JY 3 67</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_july_01_1867">
+	    
+	    <header>
+	        <inventNo>1996L00306</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="crown_hotel" type="place">5 Crown Hotel</rs>
+	                    <rs key="Q895483" type="place">Bowness</rs>
+	                </placeName>
+	                <day>Monday morning</day>
+	                <date when="1867-07-01"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">1st July 1867.</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs></salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	            
+	            <p id="p1">
+	                <s id="s1"><rs key="low_wood" type="place">Low-wood</rs> was too noisy and fashionable  - (<rs key="Q18125" type="place">Manchester</rs>fashion) for me.</s>
+	                <s id="s2">So I drove over here yesterday and got a lovely little corner-parlour in, I believe, your old Inn - though I am confused about it, the view seeming to me so much more beautiful than it did then.</s>
+	                <s id="s3">But the change in myself and in all things connected with me: is so great, and so sorrowful to me, that I can hardly bear the places.</s>
+	                <s id="s4">It is very different, having you laid up at home, and my father dead - myself old and ill, from running about the hills, with both of you expecting me home to tea, and <pb n="2"/>  I myself as lithe as a stag.</s>
+	                <s id="s5">I would give anything to be back at home at work with my minerals:</s>
+	                <s id="s6">But I have no doubt the fresh air and exercise are, not only good for me, but vitally necessary just now - so I must endure my rest and libery with patience. </s>
+	                <s id="s7">I had a pleasant row across the lake last night, and it is all very lovely.</s>
+	                <s id="s8">I went up and examined <rs key="95838041" type="person">Mr. Richmonds</rs> estate before dinner, the father and son (of the farm), showing me everything with great courtesy and niceness</s>
+	                <s id="s9">It is very beautiful - but the railroad station, not a mile distant is a fatal eyesore - if <rs key="95838041" type="person">Mr. Richmond</rs> <pb n="3"/> builds the house at all for me my principal study-room must be at the back, looking <hi rend="underline">up</hi> to the rocks and <rs key="Q34687" type="flora">wild-roses</rs>, (very lovely both, just now) and only the company-room looking to the great view - a very noble one, <hi rend="underline">but</hi> for the railroad and having the advantage of endless stufy of magnificent sunset.</s>
+	                <s id="s10">I am much struck by the fiery purity and power of the <hi rend="underline">northern</hi> skys - last night was more like an <rs type="meterology">Aurora Borealis</rs> than mere sunset the fire seemed <hi rend="underline">in</hi> the clouds and there is hardly any night.</s>
+	                <s id="s11">It is twilight till eleven and clear dawn at two - (as I know - to my discomfort) when sleepless </s> 
+	            </p>
+	
+	            <pb n="4"/>
+	
+	            <p id="p2">3
+	                <s id="s12">I hope to reach <rs key="Q31105500" type="place">Huntly burn</rs> about 5 o'clock to-day.</s>
+	                <s id="s13">I leave this note behind me here to be sure of post.</s>
+	            </p>
+	            
+	            <closer>
+	                <salute>Ever my dearest <rs key="47637407" type="person">mother</rs>, Your most affectionate Son,</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin.</rs>
+	                </signed>
+	             </closer>
+	
+	            <postscript>
+	                <p id="p3">
+	                    <s id="s14">I will send you an envelope from <rs key="Q31105500" type="place">Huntly burn</rs> - I can't to-day because I don't know if I shall choose to stay longer that a day there (<gap reason="illegible" unit="words" quantity="1"/> they ask me) it depends so much on thier ways.</s>
+	                </p>
+	            </postscript>
+	        </div>
+	    </body>
+	</text>      
+	
+</TEI>

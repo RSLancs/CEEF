@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="76205504" type="person">Joan Severn</rs>
+					<date when="1867-08-15">August 15 1867</date>
+				</title>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Transcribed</resp>
+					<date when="2019-11">November 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+				<respStmt>
+					<name>Claire McGann</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-11">November 2019</date>
+					<notes>Line 33 &amp; 37- 'sate' not sat. Line 38: 'the' is above the line. 'round' not 'around'.
+						Line 56: 'at' not 'by'. Line 75: &amp;c not be. </notes>
+					<checked>Yes</checked>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="76205504" type="person">Fernie</rs>
+						<rs key="f_crawley" type="person">Crawley</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1025076" type="place">Keswick</rs>
+						<rs key="Q2292191" type="place">Skiddaw</rs>
+						<rs key="Q23360" type="place">Cumberland</rs>
+						<rs key="Q463145" type="place">Scawfell</rs>
+						<rs key="Q798906" type="place">Penrith</rs>
+						<rs key="Q427283" type="place">Helvellyn</rs>
+						<rs key="Q84" type="place">London</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>2003L01531</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters L33</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="6"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							<supportDesc>
+								<extent>
+								<dimensions>119mm (w) x 66mm (h)</dimensions>		
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+							<msIdentifier>2003L01531/1</msIdentifier>
+							<address>
+								<addrLine id="a1">
+									<rs key="76205504" type="person">Miss Joanna Agnew</rs>
+								</addrLine>
+								<addrLine id="a2">
+									<rs key="Q66813351" type="place">Denmark Hill</rs>
+								</addrLine>
+								<addrLine id="a3">
+									<rs key="Q1394500" type="place">S. London</rs>
+								</addrLine>
+							</address>
+							<stamp id="stamp1" type="postage" position="front">
+								<desc>One Penny Postage</desc>
+							</stamp>
+							<stamp id="stamp2" type="postOffice" position="front">
+								<rs key="Q1025076" type="place">Keswick</rs>
+								<date when="1867-08-15">AU 15 67</date>
+							</stamp>
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1025076" type="place">Keswick</rs>
+				<date when="1867-08-15"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="76205504" type="person">Joan Severn</rs>
+				<rs key="Q66813351" type="place">Denmark Hill</rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_joan_august_15_1867">
+	
+	    <header>
+	        <inventNo>2003L01531</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1025076" type="place">Keswick</rs>
+	                </placeName>
+	                <date when="1867-08-15"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">15th August. Evening.</rs>
+	                </date>
+	                <salute>My dearest wee <rs key="76205504" type="person">Fernie</rs>,</salute><!-- match letter exactly, delete if
+	                unnecessary
+	                 -->
+	            </opener>
+	
+	            <p id="p1">
+	                <s id="s1">Such lovely wee <rs key="Q80005" type="fauna">fernie's</rs> as I've been seeing in their little nests
+	                    under the stones on <rs key="Q2292191" type="place">Skiddaw</rs> to day! (but not so prettie as my own wee <rs key="76205504" type="person">Fernie</rs> at all) -</s>
+	                <s id="s2">After I had sent off your letter, I thought I should like a long quiet day on <rs key="Q2292191" type="place">Skiddaw</rs> by myself, so I gave <rs key="f_crawley" type="person">Crawley</rs> some work at home,
+	                    in packing stones, and took my hammer &amp; compass and sauntered up leisurely</s>
+	                <s id="s3">It was threatening rain, in its grey beauty of stillness - no sunshine - only dead calm
+	                    under grey sky</s>
+	                <s id="s4">I sate down for a while on the highest shoulder of the hill under the summit - in perfect
+	                    calm of air - as if in a room!</s>
+	                <s id="s5">Then, suddenly - in a space of not more than ten minutes vast volumes of white cloud
+	                    formed in the west</s>
+	                <s id="s6">- when I first sate down, all the <rs key="Q23360" type="place">Cumberland</rs> mountains, from <rs key="Q463145" type="place">Scawfell</rs> to <add hand="#JR" place="above">the</add> <rs key="Q798906" type="place">Penrith</rs> hills, lay round me like a
+	                    clear model, cut in wood - I never saw anything so <hi rend="underline">ridiculously</hi> clear,
+	                great masses 2000 feet high looking like little green <del rend="overstrike">knolls</del><add
+	                            hand="#JR" place="below">bosses</add> under ones' hands <pb n="2"/></s>
+	            </p>
+	
+	            <p id="p2">
+	                <s id="s7">Then as I said, in ten mintues, the white clouds formed, and came foaming from the west
+	                    towards <rs key="Q2292191" type="place">Skiddaw</rs> - then answering white fleeces started in to being on
+	                    <rs key="Q463145" type="place">Scawfell</rs> and <rs key="Q427283" type="place">Helvellyn</rs> - and the moment they were
+	                    formed the unnatural clearness passed away, and the mountains, where still visible, resumed
+	                    their proper distances.</s>
+	            </p>
+	
+	            <p id="p3">
+	                <s id="s8">I rose and went on along the <rs key="Q207079" type="mineral">slaty</rs> ridge towards the summit,
+	                    hammering and poking about for <rs key="Q43010" type="mineral">fibrous quartz</rs> - when I met two people -
+	                    and elderly English gentleman and his wife - (the right sort of thing <del rend="overstrike">
+	                        )</del> not vulgar - but homely) - coming down in a great hurry, frightened at the matter of
+	                the approaching cloud.</s>
+	                <s id="s9">They asked me if they "should be lost in the fog"?</s>
+	                <s id="s10">I told them, there was no fear - the path was plain enough - &amp; they would soon be
+	                    out of the cloud as they went down.</s>
+	                <s id="s11">Well - but - are you<pb n="3"/> going to stop up here all night? asked the lady.</s>
+	                <s id="s12">"No, not quite, I answered, laughing - but I've my compass in my pocket &amp; don't
+	                    care what happens" so they went down as fast as they could and I went on - rejoicing in having
+	                    all <rs key="Q2292191" type="place">Skiddaw</rs> summit "hale o' mine air" - for this couple were the only
+	                    people who had come up <del rend="overstrike">that</del><add
+	                            hand="#JR" place="above">to</add>day - it looked so threatening</s>
+	                <s id="s13">It was very beautiful, with the white cloud filling all the western valley, and the air
+	                    still calm - and the desolate peak and moors- motionless for many a league, but for the shots of
+	                    white - which were 'amies, one knew - and were sometimes to be seen to move.</s>
+	            </p>
+	
+	            <p id="p4">
+	                <s id="s14">I always - even in my naughtiest times - had a way of praying on hill summits, when I
+	                    could get quiet on them; so I knelt on a bit of rock to pray - and there came suddenly into my
+	                    mind the clause of the litany -"for all that travel by land or water, &amp;c.</s>
+	                <s id="s15">So I prayed it, and you can't think what a strange intense<pb n="4"/> meaning it had up
+	                    there - one felt so much more the feebleness of the feeble there, where all was wild &amp;
+	                    strong and there I "show thy pity on all prisoners and captives" came so wonderfully where I
+	                    had the feeling of absolutely boundless liberty, <del rend="overstrike">no end of</del> I could
+	                    rise from kneeling - and dash away to any quarter of heaven - east or west or south or north -
+	                    with leagues of moorland tossed one after another like sea waves.</s>
+	            </p>
+	
+	            <p id="p5">
+	                <s id="s15">Then I got up and set to my hammering in earnest: hiding the bits I wanted to carry down
+	                in various nest-holes and heaps, and putting signal stones by them, for I'm going to take a pony up
+	                with panniers tomorrow - to bring all down.</s>
+	                <s id="s16">Presently the clouds came down to purpose - as dark as some of our <rs key="Q84" type="place">London</rs> fogs - and it began to rain too; but the air still so mild that I went on with my walk for
+	                    about two hours; and then sauntered down as leisurely as<pb n="5"/> I had come up; I did not get
+	                back to the inn till seven; -(just as <del rend="overstrike">you</del>mama and you were sitting down
+	                to dinner, I had come out of the cloud on <rs key="Q2292191" type="place">Skiddaw</rs> shoulder - and while you
+	                    were dining, I was <del rend="overstrike">soon</del> trotting down his flank over soft bosses of
+	                    turf set with <rs key="Q6983007" type="flora">ling</rs>.)</s>
+	            </p>
+	
+	            <p id="p6">
+	                <s id="s17">I've ate just the least tiny bit too much<del rend="overstrike">at</del> dinner, though -
+	                    one gets frightfully hungry from eight oclock to seven - and here's <rs key="f_crawley" type="person">Crawley</rs> come to say it's bedtime, before I've got half said that I wanted to say.</s>
+	            </p>
+	
+	            <p id="p7">
+	                <s id="18">Friday morning.</s>
+	                <s id="s19">I wasn't <hi rend="underline">all</hi> the evening writing this, though - I had another
+	                    letter to write.</s>
+	                <s id="s20">Your <del rend="overstrike">lovely</del><add hand="#JR" place="above">dear</add> little
+	                    note just came - it was very teasing for you to have two letters before the one came to put me
+	                    under right impression again.</s>
+	            </p>
+	
+	            <closer>
+	                <salute></salute><!-- optional -
+	                delete if
+	                unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                </signed>
+	             </closer>
+	
+	            <postscript>
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>
+</TEI>

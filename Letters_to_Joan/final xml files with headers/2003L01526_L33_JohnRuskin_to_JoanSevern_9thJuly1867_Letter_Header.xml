@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="76205504" type="person">Joan Severn</rs>
+					<date when="1867-07-09">July 09 1867</date>
+				</title>
+				<respStmt>
+					<name>Rob Smail</name>
+					<resp>Transcribed</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+					<checked>Yes</checked>
+				</respStmt>
+				<respStmt>
+					<name>Claire McGann</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-10">October 2019</date>
+					<notes>Line 24: gaps are 'nasty' 'cross' post'. Line 25: gap is 'I'll'. Line 26: 'There's a Rosie
+						bit of talk'. Line 27: 'some more' 'instruction'. Line 49: 'metre' (and nex't is vex't). Line
+						50: 'cart' and 'horse'. Transcription missed out two sentences (sentence 9 &amp; 12), I've
+						added in. Line 54- is 'punctilious'.</notes>
+					<checked>Yes</checked>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="45147049" type="person">Rosie</rs>
+						<rs key="73859585" type="person">J. Ruskin</rs>
+						<rs key="76205504" type="person">wee piggie</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1025076" type="place">Keswick</rs>
+						<rs key="Q22" type="place">Scotland</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>2003L01526</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters L33</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="3"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							<supportDesc>
+								<extent>
+								<dimensions>119mm (w) x 66mm (h)</dimensions>		
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+							<msIdentifier>2003L01526/1</msIdentifier>
+							<address>
+								<addrLine id="a1">
+									<rs key="76205504" type="person">Miss Joanna Agnew</rs>
+								</addrLine>
+								<addrLine id="a2">
+									<rs key="Q1017196" type="place">Wigtown</rs>
+								</addrLine>
+								<addrLine id="a3">
+									N. B
+								</addrLine>
+							</address>
+							<stamp id="stamp1" type="postage" position="front">
+								<desc>One Penny Postage</desc>
+							</stamp>
+							<stamp id="stamp2" type="postOffice" position="front">
+								<rs key="Q1025076" type="place">Keswick</rs>
+								<date when="1867-07-00">JY 67</date>
+							</stamp>
+							<stamp id="stamp3" type="postOffice" position="back">
+								<rs key="Q1016985" type="place">Newton Stewart</rs>
+								<date when="">JY 10 1867</date>
+							</stamp>
+							<stamp id="stamp4" type="postOffice" position="back">
+								<rs key="Q1017196" type="place">Wigtown</rs>
+								<date when="">JY 10 1867</date>
+							</stamp>
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1025076" type="place">Keswick</rs>
+				<date when="1867-07-09"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="76205504" type="person">Joan Severn</rs>
+				<rs key="Q1017196" type="place">Wigtown</rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_joan_july_09_1867">
+	    
+	    <header>
+	        <inventNo>2003L01526</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1025076" type="place">Keswick</rs>
+	                </placeName>
+	                <day>Tuesday</day>
+	                <date when="1867-07-09"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date"></rs>
+	                </date>
+	                <salute>My dearest <rs key="76205504" type="person">wee piggie</rs>,</salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	            
+	            <p id="p1">
+	                <s id="s1">There's a nasty cross post from <rs key="Q22" type="place">Scotland</rs> here, and I've no letters since Sunday.</s>
+	                <s id="s2">I suppose it's all right - but if I can, I'll send a telegram to know if I may come to-morrow.</s>
+	                <s id="s3">If I can't, I'll come anyhow - There's a <rs key="45147049" type="person">Rosie</rs> bit of talk! if ever there was!</s>
+	                <s id="s4">I was making some more wee piggie verses lastnight, wholly for my <hi rend="underline">own</hi> instruction and improvement - but here they are for my wee <hi rend="underline">wee</hi> piggie on the next leaf.</s>
+	            </p>
+	            
+	            <closer>
+	                <salute>Ever your loving Cuzzie</salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin</rs>
+	                </signed>
+	             </closer>
+	
+	            <pb n="2"/>   
+	
+	            <postscript>
+	                <p id="p2">
+	                    <s id="s5">when 'itie <rs key="Q787" type="fauna">pigs</rs> have muffin's hot And take Three quarters for thier lot, Then 'itie <rs key="Q787" type="fauna">pigs</rs> - had better not.</s>
+	                </p>    
+	
+	                <p id="p3">    
+	                    <s id="s6">when 'itie <rs key="Q787" type="fauna">pigs</rs> at tea have got of Orange Marmalade a pot, They would have next - I wonder what?</s>
+	                </p>    
+	
+	                <p id="p4">    
+	                    <s id="s7">That metre, I perceive is vex't.</s>
+	                    <s id="s8">The cart before the horse annex'd.</s>
+	                    <s id="s9">But, should my piggie by puplex'd,</s>
+	                    <s id="s10">The verse, re-versed, makes better text</s>
+	                    <s id="11">"I wonder what they would have next"!</s>
+	                    <s id="12">I also see I should have said A pot - of Orange Marmalade. And people who punctilious are Politely call a "pot" a "jar".</s>
+	                    <s id="13">But if <rs key="Q787" type="fauna">pigs</rs> say what <rs key="Q787" type="fauna">pigs</rs> intended the least they say is soonest mended.</s>
+	                    <s id="14">And that <hi rend="underline">was</hi> what - (you dear <rs key="76205504" type="person">I. P.</rs>) your cuzzie-piggie <hi rend="underline">had</hi>, for tea.</s>
+	                </p>
+	            </postscript>
+	
+	        </div>
+	    </body>
+	</text>      
+	
+</TEI>

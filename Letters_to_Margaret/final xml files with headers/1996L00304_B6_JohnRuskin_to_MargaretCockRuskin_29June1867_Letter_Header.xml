@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from <rs key="73859585" type="person">John Ruskin</rs> to <rs key="47637407" type="person">Margaret Cock Ruskin</rs>
+					<date when="1867-06-29">June 29 1867</date>
+				</title>
+				<respStmt>
+					<name>Rob Smail</name>
+					<resp>Transcribed</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+				<respStmt>
+					<name>Ben Wills-Eve</name>
+					<resp>Checked transcription</resp>
+					<date when="2019-10">October 2019</date>
+					<notes></notes>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<listPerson>
+					<div>
+						<rs key="47637407" type="person">Mother</rs>
+						<rs key="8821113" type="person">Downes</rs>
+						<rs key="95838041" type="person">Tom</rs>
+						<rs key="73859585" type="person">J. Ruskin.</rs>
+					</div>
+				</listPerson>
+				<listPlace>
+					<div>
+						<rs key="Q1025076" type="place">Keswick</rs>
+						<rs key="Q798906" type="place">Penrith</rs>
+						<rs key="Q4925984" type="place">Saddleback</rs>
+						<rs key="Q7846637" type="place">Troutbeck station</rs>
+						<rs key="Q2455899" type="place">Troutbeck</rs>
+						<rs key="Q895483" type="place">Bowness</rs>
+					</div>
+				</listPlace>
+				<msDesc>
+					<msIdentifier>
+						<idno>1996L00304</idno>
+						<institution>Lancaster University</institution>
+						<repository>Ruskin Library</repository>
+						<collection>Ruskin manuscript letters B6</collection>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc form="Letter">
+							<supportDesc>
+								<extent>
+									<measure unit="page" quantity="2"/>
+								<dimensions>112mm (w) x 175mm (h)</dimensions>
+								</extent>
+								<support>Paper</support>
+							</supportDesc>
+						</objectDesc>
+						<accMat type="envelope">
+							none
+						</accMat>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc><correspDesc>
+			<correspAction type="sent">
+				<rs key="73859585" type="person">John Ruskin</rs>
+				<rs key="Q1025076" type="place">Keswick</rs>
+				<date when="1867-06-29"/>
+			</correspAction>
+			<correspAction type="received">
+				<rs key="47637407" type="person">Margaret Ruskin</rs>
+				<rs key="" type="place"></rs>
+				<date>unknown</date>
+			</correspAction>
+		</correspDesc></profileDesc>
+	</teiHeader>
+
+	
+	<text id="ruskin_to_mother_june_29_1867">
+	    
+	    <header>
+	        <inventNo>1996L00304</inventNo>
+	    </header>
+	
+	    <body>
+	        <div type="text">
+	            <pb n="1"/>           
+	            <opener>
+	                <placeName><!-- match letter exactly, delete if unnecessary -->
+	                    <rs key="Q1025076" type="place">Keswick</rs>
+	                </placeName>
+	                <day>Monday</day>
+	                <date when="1867-06-29"><!-- match letter exactly, delete if unnecessary -->
+	                    <rs type="date">29th June 67</rs>
+	                </date>
+	                <salute>My dearest <rs key="47637407" type="person">Mother</rs></salute><!-- match letter exactly, delete if unnecessary -->
+	            </opener>
+	            
+	            <p id="p1">
+	                <s id="s1">It is really a settled fine evening at last, of which I am glad, because of <rs key="8821113" type="person">Downes</rs> - for I see it is generally more or less the same weather everywhere. </s>
+	                <s id="s2">I am going to take a little carriage half way to <rs key="Q798906" type="place">Penrith</rs>&amp; under <rs key="Q4925984" type="place">Saddleback</rs>&amp; look at some rocks I want to see there and pull <rs key="8821113" type="person">Downes</rs> out of the train when it stops at the <rs key="Q7846637" type="place">Troutbeck station</rs> - (<hi rend="underline">not</hi> the <rs key="Q2455899" type="place">Troutbeck</rs> you and I used to go to from <rs key="Q895483" type="place">Bowness</rs>) and to take him down the old mail coach road into <rs key="Q1025076" type="place">Keswick</rs> - if the evening is fine, it will be quite lovely.</s>
+	            </p>    
+	
+	            <p id="p2">    
+	                <s id="s3">I am very well, though still rather sulky - Love to <rs key="95838041" type="person">Tom</rs>.</s>
+	            </p>
+	            
+	            <closer>
+	                <salute>Ever my dearest <rs key="47637407" type="person">mother</rs>, your most affectionate Son. </salute><!-- optional - delete if unnecessary -->
+	                <signed><!-- optional - delete if unnecessary -->
+	                    <rs key="73859585" type="person">J. Ruskin.</rs>
+	                </signed>
+	             </closer>
+	        </div>
+	    </body>
+	</text>      
+	
+</TEI>
